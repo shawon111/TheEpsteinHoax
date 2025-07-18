@@ -1030,3 +1030,7 @@ img {
       max-width: 1440px;
   }
 }
+
+.green-text {
+    color: #45f882;
+}
